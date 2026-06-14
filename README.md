@@ -1,16 +1,17 @@
-## Hi there 👋
+## Olá! Sou o Matheus Zamferrari
 
-<!--
-**matheus-zamferrari/matheus-zamferrari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://github-readme-stats.vercel.app/api?username=matheus-zamferrari&show_icons=true&theme=tokyonight
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<a href="https://www.linkedin.com/in/matheus-felipe-z-5a80a334b" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Matheus%20Felipe-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:matheuszamferrari@outlook.com">
+  <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</div>
