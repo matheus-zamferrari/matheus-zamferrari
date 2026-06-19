@@ -44,4 +44,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3b210a2hpcXV4aHZ4NWh0dmx5NHljZWdjMDZ6NmcwcHR3YWJqN2lqNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8LVSoumYDFdo9jNEKs/giphy.gif" width="250px">
 </div>
-  
+
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-snake.svg">
+</picture>
